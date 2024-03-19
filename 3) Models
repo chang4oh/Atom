@@ -1,0 +1,31 @@
+Design (1A) is model tennis ball encased plastic shell with neodynium magnet. This is to
+represent modified Atom Ball with defensive shell with inside function that can bounce rather 
+than impact damege from drops and collision from other objects while maintaining balanced
+magnetic attraction from each other Balls.
+
+Design (1P) is cardboard model with the concept of static electricity plate controlled by
+infrared direction of each sticks to create complex geometry of lines that objects trace.
+Plate has hole size of mini styrofoam ball which the plate powered from the connected
+ring of static generator. Under the plate has styrofoam reserve, waiting to be activated 
+to trace the lines.
+
+Design (0U), I used 2x 36 transducers tractor beam levitator from UpnaLab.
+The effect of tractor beam gave strong and focused standing wave to lock the object in
+place mid air, the only downside is that movement cannot be controlled and the coverage
+area is centered with significant decrease in standing wave strength.
+
+Design (1U) is SonicSurface design from UpnaLab. Uses 2x 256 ultrasonic transducer board 
+both from opposing side to meet optimal standing wave height. The defect chips prevented
+from opperating but did give general idea of the function between board program and 
+Ultraino software. Cost of this project went way over my estimates (estimate $400, actual $1300+).
+
+
+Sources: 
+
+for (0U) 
+UpnaLab, and Instructables. “Acoustic Levitator.” 
+Instructables, Instructables, 8 Feb. 2023, www.instructables.com/Acoustic-Levitator/. 
+for (1U)
+UpnaLab, and Instructables. “SonicSurface: Phased-Array for Levitation, Mid-Air Tactile 
+Feedback and Target Directional Speakers.” Instructables, Instructables, 15 Aug. 2022, 
+www.instructables.com/SonicSurface-Phased-array-for-Levitation-Mid-air-T/. 
